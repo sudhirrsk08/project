@@ -1,0 +1,3 @@
+list=['e','a','','o','u']
+lst=list.sort(reverse=True)
+print(lst)
